@@ -21,7 +21,7 @@ repository               : "ayaan129/ayaan129.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "snowboard_pic_med.png"
+  avatar           : "snowboard_pic.png"
   name             : "AyaanAli Lakhani"
   pronouns         : # example: "she/her"  
   bio              : "Senior CS Student @ UH"
