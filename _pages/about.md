@@ -16,6 +16,7 @@ redirect_from:
 
 🛜 My technical skill set also includes a solid understanding of cloud-based environments, such as AWS, and a keen interest in cybersecurity principles and practices. I am passionate about building systems that enhance security and operational efficiency.
 
+👨🏻‍💻 I am actively looking for internship opportunities related to Cybersecurity
 
 
 
