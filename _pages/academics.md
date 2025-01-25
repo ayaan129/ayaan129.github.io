@@ -5,8 +5,6 @@ permalink: /academics/
 author_profile: true
 ---
 
-{% include base_path %}
-
 Education
 =========
 * B.S in Computer Science, University of Houston, 2025 (expected)
