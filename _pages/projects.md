@@ -5,9 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-{% include base_path %}
-
-
 Cell Company Data Management Web App
 ====================================
 * Developed a web application to efficiently manage customer data and operations for a mock cell phone company using SQL and JavaScript
