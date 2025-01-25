@@ -1,13 +1,20 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello, I'm AyaanAli!"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+🏫 I am currently a senior at the University of Houston
+
+🎓 I'm currently working towards my Bachelors in Computer Science with my capstone in Cybersecurity
+
+💻 My background includes programming in Java, Python, and SQL, along with expertise in UDP networking and socket programming.
+
+🛜 My technical skill set also includes a solid understanding of cloud-based environments, such as AWS, and a keen interest in cybersecurity principles and practices. I am passionate about building systems that enhance security and operational efficiency.
 
 A data-driven personal website
 ======
