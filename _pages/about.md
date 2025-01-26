@@ -19,11 +19,12 @@ redirect_from:
 👨🏻‍💻 I am actively looking for internship opportunities related to Cybersecurity
 
 
+
 ### Resume
 
-Below is a pdf of my resume!
 
-[AyaanAli Lakhani Resume](AyaanAli_Lakhani_resume.pdf)
+Below is a pdf of my resume!
+[Click Here](AyaanAli_Lakhani_resume.pdf)
 
 
 
