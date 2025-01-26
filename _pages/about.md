@@ -24,6 +24,7 @@ redirect_from:
 
 
 Below is a pdf of my resume!
+
 [Click Here](AyaanAli_Lakhani_resume.pdf)
 
 
