@@ -1,6 +1,7 @@
 ---
 title: "Swan River Web App 🦢"
-excerpt: 
+collection: portfolio
+---
 "Group project web app for student (basicuser) form submission to a multi-tier admin management 
 
 Demo Video:  
@@ -8,7 +9,3 @@ https://m.youtube.com/watch?v=jgELmk5Yyw8&pp=ygUXU3dhbiByaXZlciB3ZWIgYXBwIGRlbW8
 
 Repository:  
 https://github.com/ayaan129/Swan-River-Group-Project/tree/main"
-
-collection: portfolio
-layout: portfolio
----
