@@ -1,4 +1,8 @@
-
+---
+title: "Swan River Web App 🦢"
+collection: portfolio
+layout: portfolio
+---
 # Swan River Web App 🦢
 
 Group project web app for student (basicuser) form submission to a multi-tier admin management 
