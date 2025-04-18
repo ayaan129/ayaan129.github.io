@@ -1,5 +1,6 @@
 ---
 title: "Swan River Web App 🦢"
+excerpt: " "
 collection: portfolio
 permalink: /portfolio/swan-river/
 ---
